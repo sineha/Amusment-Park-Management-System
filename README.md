@@ -1,5 +1,5 @@
 # Amusment-Park-Management-System
-Project developed in the second semester using OOP
+2nd Semester Project for OOP
 
 Functionalities: 
 1. Admin Support
